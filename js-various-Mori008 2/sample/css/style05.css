@@ -1,0 +1,105 @@
+
+html,body{
+   background: linear-gradient(-135deg,#cdceb7, #56778d,#cad8fc ) fixed;
+   margin: 0px;
+}
+
+
+.top{
+   height: 30%;
+   width: 30%;
+   transition-duration: 0.5s;  
+}
+.top img{
+   cursor: pointer;
+ }
+ .top:hover{
+   box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+   transform: translateY(-10px);
+   transition-duration: 0.5s;
+ }
+
+
+
+.headd{
+   background-color: black;
+   margin: 0;
+   height: 30px;
+   padding: 20px;
+   margin-bottom: 5%;
+}
+
+
+h1{
+   color: white;
+   font-size: 15px;
+   margin: auto;
+   text-align: center;
+   font-family: "MS Pゴシック" ;
+   
+}
+
+
+h2{
+   font-size: 25px;
+   text-align: center;
+   font-family: arial, sans-serif;
+}
+
+
+h3{
+   font-size: 20px;
+   text-align: center;
+   font-family: arial, sans-serif;
+}
+
+
+.title{
+   margin-top: 10%;
+   margin-bottom: 7%;
+
+}
+
+
+.music{
+   text-align: center;
+   padding-left: 20%;
+   padding-right: 20%;
+   padding-top: 5px;
+}
+
+
+.album{
+   margin-top: 5%;
+   text-align: center;
+   line-height: 0.01em
+}
+
+.ai{
+   width: 30%;
+   height: 30%;
+}
+
+.title{
+   text-align: center;
+}
+
+h4{
+   padding-top: 3%;
+   font-size: 25px;
+   color: white;
+}
+
+h5{
+   font-size: 35px;
+   color: white;
+}
+
+h6{
+   font-size: 20px;
+   color: white;
+
+}
+
+
+
